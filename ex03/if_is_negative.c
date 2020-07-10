@@ -7,6 +7,6 @@ void ft_is_negative (void) {
     } else {
     // (n < 0)
     }
-    int positive_negative = (stmt1) ? 1 == P : 0 = N;
+    int positive_negative = (stmt1) ? 1 == P : 0 == N;
     return (0);
 }
